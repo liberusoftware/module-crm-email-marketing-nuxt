@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-email-marketing-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-email-marketing",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-email-marketing-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/email-marketing.md",
+  "presentationPlan": "projects/crm/nuxt/email-marketing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
